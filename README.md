@@ -1,11 +1,20 @@
 # Caculadora-C
- //Um Calculadora de um codigo que peguei para estudar algums codigos c / c++
-#include <stdio.h> 
-#include <conio.h>
-#include <math.h>
-#include <stdlib.h> 
 
-int main(){
+
+
+
+ //Um Calculadora de um codigo que peguei para estudar algums codigos c / c++
+ 
+ 
+ 
+ 
+ 
+	#include <stdio.h> 
+	#include <conio.h>
+	#include <math.h>
+	#include <stdlib.h> 
+
+	int main(){
 
 	float num1, num2; //flutuante real
 	char oper;  //caractere (nesse caso o resultado da operação e a operação)
